@@ -1,0 +1,22 @@
+{
+  "name": "hello-zatu-npm",
+  "version": "1.0.0",
+  "description": "Say hello to zatu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xatu/hello-zatu-npm.git"
+  },
+  "keywords": [
+    "zatu"
+  ],
+  "author": "Rafael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xatu/hello-zatu-npm/issues"
+  },
+  "homepage": "https://github.com/xatu/hello-zatu-npm#readme"
+}
