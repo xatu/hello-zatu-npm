@@ -1,6 +1,6 @@
 {
   "name": "hello-zatu-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Say hello to zatu",
   "main": "index.js",
   "scripts": {
